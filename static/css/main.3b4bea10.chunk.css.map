@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,OACE,WAAY,CACZ,aAAc,CACd,iBAAkB","file":"main.3b4bea10.chunk.css","sourcesContent":[".count {\n  width: 200px;\n  margin: 0 auto;\n  text-align: center;\n}\n"]}
